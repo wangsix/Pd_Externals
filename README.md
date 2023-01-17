@@ -2,7 +2,7 @@
 A repository for my own Pd external source codes.
 
 # author & contacts 
-Cheng-i Wang, chw160@ucsd.edu
+Cheng-i Wang, wangsix@gmail.com
 
 # coin
 coin is a flip coin object, which you can set the bernoulli experiment probability, the value for heads and the value for tails.
